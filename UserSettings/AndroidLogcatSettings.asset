@@ -1,0 +1,107 @@
+{
+    "m_SelectedDeviceId": "b9b7958a",
+    "m_SelectedPackage": {
+        "deviceId": "b9b7958a",
+        "name": "com.test.FreelanceBellImersive",
+        "processId": 4884,
+        "exited": false
+    },
+    "m_SelectedPriority": 1,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "b9b7958a",
+            "name": "com.miui.home",
+            "processId": 3848,
+            "exited": false
+        },
+        {
+            "deviceId": "b9b7958a",
+            "name": "com.test.FreelanceBellImersive",
+            "processId": 29452,
+            "exited": true
+        },
+        {
+            "deviceId": "b9b7958a",
+            "name": "com.test.FreelanceBellImersive",
+            "processId": 31477,
+            "exited": true
+        },
+        {
+            "deviceId": "b9b7958a",
+            "name": "com.test.FreelanceBellImersive",
+            "processId": 1154,
+            "exited": true
+        },
+        {
+            "deviceId": "b9b7958a",
+            "name": "com.test.FreelanceBellImersive",
+            "processId": 3117,
+            "exited": true
+        },
+        {
+            "deviceId": "b9b7958a",
+            "name": "com.google.android.packageinstaller",
+            "processId": 3874,
+            "exited": true
+        },
+        {
+            "deviceId": "b9b7958a",
+            "name": "com.test.FreelanceBellImersive",
+            "processId": 4884,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "FechedInfo",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
